@@ -1,0 +1,16 @@
+{
+    "name": "phaser-multiplayer",
+    "version": "1.0.0",
+    "description": "Multiplayer game using Phaser 3 and Socket.IO",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "socket.io": "^4.7.2"
+    },
+    "author": "YourName",
+    "license": "MIT"
+  }
+  
